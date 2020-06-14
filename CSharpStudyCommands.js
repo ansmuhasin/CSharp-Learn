@@ -110,7 +110,7 @@ https://www.geeksforgeeks.org/c-sharp-encapsulation/
 //! Abstraction
 //+ Abstraction and abstract class are different things.
 //+ Abstraction is showing the requered details to the outside., It can be something like C# .Net library classes. that the implimentations are hidden.
-//+ In other way, it can be something like, 
+//+ In other way, it can be something like,
 //+ if we have functionality to add record to db when user gives input, we create a class and we have a class variable and 3 functions. Validate, OPenConnection, and Add. 
 //+ when the consuming class uses this class. it need to insert the record to this object, the call validate function, the opnconnection function. then add function. but the consumer 
 //+ consumer class does not need to know about validate and openconnection function. It only need to know about Add function. so, we can put those 2 function inside the Add function
@@ -131,7 +131,7 @@ https://stackoverflow.com/questions/1524197/downcast-and-upcast
 //! is and as keyword
 https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/operators/type-testing-and-cast
 
-//! new keyword 
+//! new keyword
 https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/knowing-when-to-use-override-and-new-keywords
 
 //! this
@@ -142,7 +142,7 @@ https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/namespaces/
 https://docs.microsoft.com/en-us/dotnet/standard/design-guidelines/names-of-namespaces
 https://docs.microsoft.com/en-us/previous-versions/dotnet/netframework-1.1/893ke618(v=vs.71)?redirectedfrom=MSDN
 //! Assembly
-//+ is a single unit of deployment 
+//+ is a single unit of deployment
 //+ pre cumoiled .Net code which can be run by CLR
 //+ .exe have irs own memory space while running. we can run multiple times and each time it will start the program.
 //+ dll run inside other memory space. it need some other program to invoke it and run in its memory space. needs a hoster or invoker --reusability
@@ -160,17 +160,58 @@ https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/base
 
 
 
+//! polymorphysm
+//+  if the base class and derived class having methods with same name and different signature. then it will be a overloading. if the name is same and signature is same,
+//+ then the derived class will hide the base class methord, we can add a new keyword as well. 
+//+ if we put virtual and override keyword, then it will be overridibg, 
+//+ override and new will behave differently, if we create a object of derived class and upcast to base class and call the base class method
+//+ in overriding , even if we call the base class methord, it is will still gonn call the overrided method from the derived class.
+//+ in new keyword, it will call the base class method itself.
+https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/polymorphism
 
+//! OverLoading
+https://docs.microsoft.com/en-us/dotnet/standard/design-guidelines/member-overloading
 
+//!overriding
+//+ we can call the virtual base method by using base keyword.
+//+ will not support private keyword in virtual
+https://emids.udemy.com/course/csharp-intermediate-classes-interfaces-and-oop/learn/lecture/2243584#questions
+https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/override
+https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/polymorphism
 
+//! sealed keyword
+https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/sealed
 
+//! static keyword
+https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/static-classes-and-static-class-members
+https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/static
+https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/static-classes-and-static-class-members
 
+//! singleton class
+https://docs.microsoft.com/en-us/previous-versions/msp-n-p/ff650316(v=pandp.10)?redirectedfrom=MSDN
 
+//! partial classes
+https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/partial-classes-and-methods
 
+//!abstract
+//+ abstract classes can contain non abstract members as well as fields.
+//+ non abstract class should not have any abstract members.
+//+ we cannot use sealed with abstract class or members.
+//+ we cannot use virtual as well, becouse it already a abstract member by default.
+//+ we can have override abstract members in abstract class(we can skinp the implementation and forward it to next derived class)
 
-
-
-
+//! Interfaces
+https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/interfaces/#:~:text=An%20interface%20is%20typically%20like,can't%20be%20instantiated%20directly.
+https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/interface
+https://docs.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/interfaces
+https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/interface-properties
+https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/interfaces/explicit-interface-implementationx
+//+ if we have members with same name in multiple implimented interfaces, then we should use explicit implimentaion in classes to avoid confution.
+//+ if a method with same signature and name exists in both the interfaces, and if we dont do a expliicit implimentTION , then calling both interface member will map to same implimentation in the classes
+//+ if different members can exists with same name in different interface, and we moight need to do an explicit implimentaion.
+//+ after c# 8, default implimentation is possible, which cannot be calle from the inherited class object. it can only be called from the instance of the interface.
+https://docs.microsoft.com/en-us/dotnet/standard/design-guidelines/interface
+https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/interfaces/how-to-explicitly-implement-interface-members
 
 
 
