@@ -1,0 +1,2 @@
+https://docs.microsoft.com/en-us/visualstudio/ide/class-designer/refactoring-classes-and-types?view=vs-2019
+https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/operators/operator-overloading
