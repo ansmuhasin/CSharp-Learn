@@ -14,7 +14,7 @@ namespace Name
                 if (integerCurrentScore >= 0 && integerCurrentScore <= 20)
                 {
                     totalSubjects += integerCurrentScore;
-                totalSubjects++;
+                    totalSubjects++;
                 }
                 else
                 {
