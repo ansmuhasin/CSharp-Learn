@@ -1,0 +1,6 @@
+C:\Users\Darkbound\source\repos\ConsoleApp5\Concatenation\bin\Debug\Concatenation.exe.config
+C:\Users\Darkbound\source\repos\ConsoleApp5\Concatenation\bin\Debug\Concatenation.exe
+C:\Users\Darkbound\source\repos\ConsoleApp5\Concatenation\bin\Debug\Concatenation.pdb
+C:\Users\Darkbound\source\repos\ConsoleApp5\Concatenation\obj\Debug\Concatenation.csproj.CoreCompileInputs.cache
+C:\Users\Darkbound\source\repos\ConsoleApp5\Concatenation\obj\Debug\Concatenation.exe
+C:\Users\Darkbound\source\repos\ConsoleApp5\Concatenation\obj\Debug\Concatenation.pdb

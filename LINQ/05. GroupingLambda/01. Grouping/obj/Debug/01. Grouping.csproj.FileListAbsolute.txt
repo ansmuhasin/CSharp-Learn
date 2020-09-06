@@ -1,0 +1,7 @@
+C:\Courses\08. C# Linq\VS Code\04. GroupingLambda\GroupingWithLambda\01. Grouping\bin\Debug\_01.Grouping.exe.config
+C:\Courses\08. C# Linq\VS Code\04. GroupingLambda\GroupingWithLambda\01. Grouping\bin\Debug\_01.Grouping.exe
+C:\Courses\08. C# Linq\VS Code\04. GroupingLambda\GroupingWithLambda\01. Grouping\bin\Debug\_01.Grouping.pdb
+C:\Courses\08. C# Linq\VS Code\04. GroupingLambda\GroupingWithLambda\01. Grouping\obj\Debug\01. Grouping.csprojResolveAssemblyReference.cache
+C:\Courses\08. C# Linq\VS Code\04. GroupingLambda\GroupingWithLambda\01. Grouping\obj\Debug\01. Grouping.csproj.CoreCompileInputs.cache
+C:\Courses\08. C# Linq\VS Code\04. GroupingLambda\GroupingWithLambda\01. Grouping\obj\Debug\_01.Grouping.exe
+C:\Courses\08. C# Linq\VS Code\04. GroupingLambda\GroupingWithLambda\01. Grouping\obj\Debug\_01.Grouping.pdb

@@ -1,0 +1,7 @@
+C:\Users\Darkbound\source\repos\ConsoleApp5\Enumerabl\bin\Debug\Enumerabl.exe.config
+C:\Users\Darkbound\source\repos\ConsoleApp5\Enumerabl\bin\Debug\Enumerabl.exe
+C:\Users\Darkbound\source\repos\ConsoleApp5\Enumerabl\bin\Debug\Enumerabl.pdb
+C:\Users\Darkbound\source\repos\ConsoleApp5\Enumerabl\obj\Debug\Enumerabl.csproj.CoreCompileInputs.cache
+C:\Users\Darkbound\source\repos\ConsoleApp5\Enumerabl\obj\Debug\Enumerabl.exe
+C:\Users\Darkbound\source\repos\ConsoleApp5\Enumerabl\obj\Debug\Enumerabl.pdb
+C:\Users\Darkbound\source\repos\ConsoleApp5\Enumerabl\obj\Debug\Enumerabl.csprojResolveAssemblyReference.cache

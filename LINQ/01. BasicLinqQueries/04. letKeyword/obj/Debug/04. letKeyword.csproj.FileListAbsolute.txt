@@ -1,0 +1,7 @@
+C:\Courses\08. C# Linq\VS Code\01. BasicLinqQueries\04. letKeyword\bin\Debug\_03.letKeyword.exe.config
+C:\Courses\08. C# Linq\VS Code\01. BasicLinqQueries\04. letKeyword\bin\Debug\_03.letKeyword.exe
+C:\Courses\08. C# Linq\VS Code\01. BasicLinqQueries\04. letKeyword\bin\Debug\_03.letKeyword.pdb
+C:\Courses\08. C# Linq\VS Code\01. BasicLinqQueries\04. letKeyword\obj\Debug\04. letKeyword.csprojResolveAssemblyReference.cache
+C:\Courses\08. C# Linq\VS Code\01. BasicLinqQueries\04. letKeyword\obj\Debug\04. letKeyword.csproj.CoreCompileInputs.cache
+C:\Courses\08. C# Linq\VS Code\01. BasicLinqQueries\04. letKeyword\obj\Debug\_03.letKeyword.exe
+C:\Courses\08. C# Linq\VS Code\01. BasicLinqQueries\04. letKeyword\obj\Debug\_03.letKeyword.pdb

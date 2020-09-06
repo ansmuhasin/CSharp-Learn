@@ -1,0 +1,7 @@
+C:\Courses\08. C# Linq\VS Code\07. Converting and Filtering\Converting\bin\Debug\Converting.exe.config
+C:\Courses\08. C# Linq\VS Code\07. Converting and Filtering\Converting\bin\Debug\Converting.exe
+C:\Courses\08. C# Linq\VS Code\07. Converting and Filtering\Converting\bin\Debug\Converting.pdb
+C:\Courses\08. C# Linq\VS Code\07. Converting and Filtering\Converting\obj\Debug\Converting.csprojResolveAssemblyReference.cache
+C:\Courses\08. C# Linq\VS Code\07. Converting and Filtering\Converting\obj\Debug\Converting.csproj.CoreCompileInputs.cache
+C:\Courses\08. C# Linq\VS Code\07. Converting and Filtering\Converting\obj\Debug\Converting.exe
+C:\Courses\08. C# Linq\VS Code\07. Converting and Filtering\Converting\obj\Debug\Converting.pdb

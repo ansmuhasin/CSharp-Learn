@@ -1,0 +1,13 @@
+C:\Users\Darkbound\source\repos\ConsoleApp5\Quantifiers\bin\Debug\Quantifiers.exe.config
+C:\Users\Darkbound\source\repos\ConsoleApp5\Quantifiers\bin\Debug\Quantifiers.exe
+C:\Users\Darkbound\source\repos\ConsoleApp5\Quantifiers\bin\Debug\Quantifiers.pdb
+C:\Users\Darkbound\source\repos\ConsoleApp5\Quantifiers\obj\Debug\Quantifiers.csproj.CoreCompileInputs.cache
+C:\Users\Darkbound\source\repos\ConsoleApp5\Quantifiers\obj\Debug\Quantifiers.exe
+C:\Users\Darkbound\source\repos\ConsoleApp5\Quantifiers\obj\Debug\Quantifiers.pdb
+C:\Courses\08. C# Linq\VS Code\08. CoolStuffInCSharp\CoolStuffInCSharp\Quantifiers\bin\Debug\Quantifiers.exe.config
+C:\Courses\08. C# Linq\VS Code\08. CoolStuffInCSharp\CoolStuffInCSharp\Quantifiers\bin\Debug\Quantifiers.exe
+C:\Courses\08. C# Linq\VS Code\08. CoolStuffInCSharp\CoolStuffInCSharp\Quantifiers\bin\Debug\Quantifiers.pdb
+C:\Courses\08. C# Linq\VS Code\08. CoolStuffInCSharp\CoolStuffInCSharp\Quantifiers\obj\Debug\Quantifiers.csprojResolveAssemblyReference.cache
+C:\Courses\08. C# Linq\VS Code\08. CoolStuffInCSharp\CoolStuffInCSharp\Quantifiers\obj\Debug\Quantifiers.csproj.CoreCompileInputs.cache
+C:\Courses\08. C# Linq\VS Code\08. CoolStuffInCSharp\CoolStuffInCSharp\Quantifiers\obj\Debug\Quantifiers.exe
+C:\Courses\08. C# Linq\VS Code\08. CoolStuffInCSharp\CoolStuffInCSharp\Quantifiers\obj\Debug\Quantifiers.pdb

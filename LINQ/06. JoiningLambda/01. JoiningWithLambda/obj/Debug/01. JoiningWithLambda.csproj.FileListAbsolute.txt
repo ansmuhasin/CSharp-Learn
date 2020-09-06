@@ -1,0 +1,7 @@
+C:\Courses\08. C# Linq\VS Code\05. JoiningLambda\JoiningWithLambda\01. JoiningWithLambda\obj\Debug\01. JoiningWithLambda.csprojResolveAssemblyReference.cache
+C:\Courses\08. C# Linq\VS Code\05. JoiningLambda\JoiningWithLambda\01. JoiningWithLambda\obj\Debug\01. JoiningWithLambda.csproj.CoreCompileInputs.cache
+C:\Courses\08. C# Linq\VS Code\05. JoiningLambda\JoiningWithLambda\01. JoiningWithLambda\bin\Debug\_01.JoiningWithLambda.exe.config
+C:\Courses\08. C# Linq\VS Code\05. JoiningLambda\JoiningWithLambda\01. JoiningWithLambda\bin\Debug\_01.JoiningWithLambda.exe
+C:\Courses\08. C# Linq\VS Code\05. JoiningLambda\JoiningWithLambda\01. JoiningWithLambda\bin\Debug\_01.JoiningWithLambda.pdb
+C:\Courses\08. C# Linq\VS Code\05. JoiningLambda\JoiningWithLambda\01. JoiningWithLambda\obj\Debug\_01.JoiningWithLambda.exe
+C:\Courses\08. C# Linq\VS Code\05. JoiningLambda\JoiningWithLambda\01. JoiningWithLambda\obj\Debug\_01.JoiningWithLambda.pdb
