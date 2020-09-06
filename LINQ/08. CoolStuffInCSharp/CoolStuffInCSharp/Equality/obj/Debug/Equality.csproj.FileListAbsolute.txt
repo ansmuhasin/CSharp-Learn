@@ -1,0 +1,7 @@
+C:\Users\Darkbound\source\repos\ConsoleApp5\ConsoleApp5\bin\Debug\ConsoleApp5.exe.config
+C:\Users\Darkbound\source\repos\ConsoleApp5\ConsoleApp5\bin\Debug\ConsoleApp5.exe
+C:\Users\Darkbound\source\repos\ConsoleApp5\ConsoleApp5\bin\Debug\ConsoleApp5.pdb
+C:\Users\Darkbound\source\repos\ConsoleApp5\ConsoleApp5\obj\Debug\Equality.csprojResolveAssemblyReference.cache
+C:\Users\Darkbound\source\repos\ConsoleApp5\ConsoleApp5\obj\Debug\Equality.csproj.CoreCompileInputs.cache
+C:\Users\Darkbound\source\repos\ConsoleApp5\ConsoleApp5\obj\Debug\ConsoleApp5.exe
+C:\Users\Darkbound\source\repos\ConsoleApp5\ConsoleApp5\obj\Debug\ConsoleApp5.pdb

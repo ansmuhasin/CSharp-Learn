@@ -1,0 +1,7 @@
+C:\Courses\08. C# Linq\VS Code\01. BasicLinqQueries\03. SelectNewCreateObjects\bin\Debug\_04.SelectNewCreateObjects.exe.config
+C:\Courses\08. C# Linq\VS Code\01. BasicLinqQueries\03. SelectNewCreateObjects\bin\Debug\_04.SelectNewCreateObjects.exe
+C:\Courses\08. C# Linq\VS Code\01. BasicLinqQueries\03. SelectNewCreateObjects\bin\Debug\_04.SelectNewCreateObjects.pdb
+C:\Courses\08. C# Linq\VS Code\01. BasicLinqQueries\03. SelectNewCreateObjects\obj\Debug\03. SelectNewCreateObjects.csprojResolveAssemblyReference.cache
+C:\Courses\08. C# Linq\VS Code\01. BasicLinqQueries\03. SelectNewCreateObjects\obj\Debug\03. SelectNewCreateObjects.csproj.CoreCompileInputs.cache
+C:\Courses\08. C# Linq\VS Code\01. BasicLinqQueries\03. SelectNewCreateObjects\obj\Debug\_04.SelectNewCreateObjects.exe
+C:\Courses\08. C# Linq\VS Code\01. BasicLinqQueries\03. SelectNewCreateObjects\obj\Debug\_04.SelectNewCreateObjects.pdb

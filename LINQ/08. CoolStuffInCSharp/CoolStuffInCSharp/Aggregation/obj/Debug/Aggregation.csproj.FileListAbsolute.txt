@@ -1,0 +1,6 @@
+C:\Users\Darkbound\source\repos\ConsoleApp5\Aggregation\bin\Debug\Aggregation.exe.config
+C:\Users\Darkbound\source\repos\ConsoleApp5\Aggregation\bin\Debug\Aggregation.exe
+C:\Users\Darkbound\source\repos\ConsoleApp5\Aggregation\bin\Debug\Aggregation.pdb
+C:\Users\Darkbound\source\repos\ConsoleApp5\Aggregation\obj\Debug\Aggregation.csproj.CoreCompileInputs.cache
+C:\Users\Darkbound\source\repos\ConsoleApp5\Aggregation\obj\Debug\Aggregation.exe
+C:\Users\Darkbound\source\repos\ConsoleApp5\Aggregation\obj\Debug\Aggregation.pdb
